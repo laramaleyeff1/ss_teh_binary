@@ -19,7 +19,7 @@ This project contains the supporting R code for “Sample size requirements for 
 
     .        
     ├── numerical_illustrations          
-    ├── sample_size  
+    ├── rshiny_app  
     ├── sims
     ├── helper.R                  
     ├── helper_boots.R    
