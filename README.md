@@ -15,14 +15,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project contains the supporting R code for “Assessing exposure-time treatment effect heterogeneity in stepped wedge cluster randomized trials”. Specifically, it includes R code for trial planning (code_for_trial_planning) mentioned in Section 5.1 and Web Appendix F.2, sample code for analysis of a trial (sample_analysis), and the R code and results from the presented simulation study (simulation_study).
+This project contains the supporting R code for “Sample size requirements for testing treatment effect heterogeneity in cluster randomized trials with binary outcomes”. 
 
-    .
-    ├── helper.R                  
-    ├── helper_boots.R            
+    .        
     ├── numerical_illustrations          
     ├── sample_size  
-    ├── sims                        
+    ├── sims
+    ├── helper.R                  
+    ├── helper_boots.R    
     └── README.md
 
 
